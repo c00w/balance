@@ -23,7 +23,7 @@ func main() {
 	fmt.Scan(&gain)
 
 	dom_to_int := 0.7
-	stock_to_bond := 0.8
+	stock_to_bond := 0.9
 
 	total := gain + us_stock + us_bond + int_stock + int_bond
 
